@@ -182,7 +182,7 @@ h2 {
 
 .article {
   height: 120px;
-  /* overflow: auto; */
+  overflow: hidden;
   margin-left: 40px;
 }
 
